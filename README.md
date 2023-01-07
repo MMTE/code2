@@ -1,3 +1,11 @@
+---
+layout: post
+title: I Love Markdown
+tags:
+  - test
+  - example
+---
+
 # کد ۲ (code2)
 
 
